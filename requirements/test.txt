@@ -1,0 +1,4 @@
+isort==5.10.1
+pep8==1.7.1
+autopep8==1.7.0
+autoflake8==0.3.2

@@ -1,0 +1,14 @@
+fastapi==0.79.0
+pydantic==1.9.1
+uvicorn[standard]
+python-jose[cryptography]
+passlib[bcrypt]
+python-decouple==3.6
+python-dotenv==0.20
+pymongo==4.2.0
+pymongo[srv]
+motor==3.0.0
+python-multipart==0.0.5
+beanie==1.11.7
+fastapi-pagination
+httpx==0.23.0
